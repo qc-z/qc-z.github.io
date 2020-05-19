@@ -1,0 +1,2 @@
+webpackJsonp([9],{Gkrv:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("div",{},[t("h1",[this._v("产品直通车")])])])}]};var u=n("VU/8")({name:"prodRecom",data:function(){return{}},mounted:function(){},methods:{}},r,!1,function(e){n("umDb")},null,null);t.default=u.exports},umDb:function(e,t){}});
+//# sourceMappingURL=9.30d81fde21423affd1b4.js.map

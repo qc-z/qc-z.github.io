@@ -1,0 +1,2 @@
+webpackJsonp([13],{ELlE:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={name:"caseDetail",components:{rightDisplay:t("vihB").a},data:function(){return{}}},i={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n\n   aa\n")])},staticRenderFns:[]};var r=t("VU/8")(a,i,!1,function(e){t("xz3f")},null,null);n.default=r.exports},xz3f:function(e,n){}});
+//# sourceMappingURL=13.39bd50a8d85a45fb5bed.js.map
